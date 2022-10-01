@@ -18,6 +18,12 @@
 
 ## Пример работы сервиса fastAPI в серверном режиме
 
+### Запуск сервера
+```bash
+pip3 install -r requirements.txt
+python3 main.py
+```
+
 ![image](https://user-images.githubusercontent.com/53406289/193424237-49767ae2-9367-4e73-b3bf-c4adf8d6dfe1.png)
 
 ## Для тестирования модели можно запустить распознавание отдельно следующим образом:
